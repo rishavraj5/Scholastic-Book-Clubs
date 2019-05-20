@@ -1,0 +1,619 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    background-color: white;
+    height: 130px;
+    position: relative;
+}
+#logo1{
+    width: 155px;
+    height: 19px;
+    position: absolute;
+    left: 17%;
+    bottom: 60px;
+}
+#logo2{
+    width: 312px;
+    height: 30px;
+    position: absolute;
+    left: 17%;
+    bottom: 17px;
+}
+#logo3{
+    width: 244px;
+    height: 77px;
+    position: absolute;
+    bottom: 0px;
+    right: 17%;
+}
+.second{
+	background-color: #d83230;
+    width: 100%;
+    height: 330px;
+    border-bottom: 20px solid red;
+    border-color: #ad2826;
+    position: relative;
+}
+.index1{
+    position: absolute;
+    left: 17%;
+    top: 2px;
+    width: 200px;
+    height: 10px;
+    font-size: 20px;
+    color: white;
+    font-family: helvetica;
+}
+.index2{
+    position: absolute;
+    left: 17%;
+    top: 25px;
+    width: 200px;
+    height: 20px;
+    color: white;
+    font-family: helvetica;
+    font-size: 30px;
+}
+.index3{
+    width: 320px;
+    height: 250px;
+    top: 65px;
+    left: 17%;
+    position: absolute;
+    background-color: #930216;
+}
+form li{
+    list-style: none;
+    display: inline-block;
+}
+#input1{
+    position: relative;
+    top: 10px; 
+    left: 10px;
+    width: 300px;
+    height: 40px;
+}
+#input2{
+    position: relative;
+    top: 20px; 
+    left: 10px;
+    width: 300px;
+    height: 40px; 
+}
+#input3{
+    position: relative;
+    top: 30px; 
+    left: 10px;
+    width: 10px
+    height: 10px; 
+}
+#input4{
+    position: relative;
+    left: 10px;
+    top: 30px;   
+    color: white;
+}
+form p{
+    position: relative;
+    left: 10px;
+    top: 30px;
+    color: white;
+}
+#input5{
+    position: relative;
+    top: 40px;
+    left: 10px;
+    width: 300px;
+    height: 50px;
+    background-color: #e5af00;
+    font-size: 30px;
+    font-family: algerian;
+    color: white;
+}
+.index3 p a{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    color: white;
+    text-decoration: underline;
+}
+
+.index4{
+    width: 655px;
+    height: 50px;
+    top: 80px;
+    left: 40%;
+    position: absolute;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+}
+.index5{
+    width: 320px;
+    height: 160px;
+    bottom: 17px;
+    left: 40%;
+    position: absolute;
+    background-color: #930216;
+}
+.index6{
+    width: 320px;
+    height: 160px;
+    bottom: 17px;
+    left: 62%;
+    position: absolute;
+    background-color: #930216;
+}
+#teacher p{
+    color: white;
+    position: relative;
+    top: 25px;
+    left: 50px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+#signup p{
+    position: relative;
+    width: 90%;
+    height: 40px;
+    background-color: #3FB0EB;
+    top: 50px;
+    left: 5%;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 8px;
+    font-family: cursive;
+    letter-spacing: 2px;
+    color: white;
+}
+#parents p{
+    color: white;
+    position: relative;
+    top: 25px;
+    left: 65px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+#getstarted p{
+     position: relative;
+    width: 90%;
+    height: 40px;
+    background-color: #3FB0EB;
+    top: 50px;
+    left: 5%;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 8px;
+    font-family: cursive;
+    letter-spacing: 2px;
+    color: white;
+}
+
+
+.third{
+    background-color: #32dbdb;
+    margin-top: 3px;
+    height: 428px;
+    position: relative;
+}
+#content1{
+    text-align: center;
+    width: 1000px;
+    height: 15px;
+    position: absolute;
+    top: 15px;
+    left: 17%;
+    color: white;
+    font-size: 35px;
+    font-family: monospace;
+}
+#img1{
+    width: 410px;
+    height: 340px;
+    position: absolute;
+    top: 88px;
+    left: 950px;
+}
+#video1{
+    width: 590px;
+    height: 332px;
+    position: absolute;
+    bottom: 20px; 
+    left: 17%;   
+}
+.fourth{
+    margin-top: 3px;
+    height: 455px;
+    position: relative;
+}
+b{
+    font-size: 110%;
+    font-family: cursive;
+}
+#content2{
+    width: 700px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    top: 30px;
+    font-family: helvetica;
+}
+#reading{
+    color: #f44268;
+    text-align: center;
+}
+#img2{
+    width: 225px;
+    height: 145px;
+    position: absolute;
+    top: 35%;
+    left: 250px;
+}
+#one{
+    text-align: center;
+    font-family: helvetica;
+    font-size: 150%;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 3px;
+}
+#content3{
+    width: 225px;
+    height: 200px;
+    position: absolute;
+    left: 250px;
+    top: 65%; 
+}
+#img3{
+    width: 225px;
+    height: 145px;
+    position: absolute;
+    top: 35%;
+    left: 525px;
+}
+#two{
+    text-align: center;
+    font-family: helvetica;
+    font-size: 150%;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 3px;
+}
+#content4{
+    width: 225px;
+    height: 200px;
+    position: absolute;
+    left: 525px;
+    top: 65%;
+}
+#img4{
+    width: 225px;
+    height: 145px;
+    position: absolute;
+    top: 35%;
+    left: 800px;
+}
+#three{
+    text-align: center;
+    font-family: helvetica;
+    font-size: 150%;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 3px;
+}
+#content5{
+    width: 225px;
+    height: 200px;
+    position: absolute;
+    left: 800px;
+    top: 65%;
+}
+#img5{
+    width: 225px;
+    height: 145px;
+    position: absolute;
+    top: 35%;
+    left: 1075px;
+}
+#four{
+    text-align: center;
+    font-family: helvetica;
+    font-size: 150%;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 3px;
+}
+#content6{
+    width: 225px;
+    height: 200px;
+    position: absolute;
+    left: 1075px;
+    top: 65%;
+}
+.fifth{
+    margin-top: 10px;
+    height: 500px;
+    background-color: #edece8;
+    position: relative;
+}
+#content7{
+    text-align: center;
+    width: 1000px;
+    height: 15px;
+    position: absolute;
+    top: 13px;
+    left: 270px;
+    color: #f40e44;
+    font-size: 35px;
+    font-family: monospace;
+}
+#img6{
+    width: 1021px;
+    height: 415px;
+    position: absolute;
+    left: 250px;
+    top: 70px;
+}
+.sixth{
+    height: 250px;
+    position: relative;
+}
+#content8{
+    font-size: 35px;
+    width: 600px;
+    left: 30%;
+    top: 45px;
+    text-align: center;   
+    position: absolute;
+    color: #f42757;
+    font-family: arial;   
+    letter-spacing: 2px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.box1{
+    position: absolute;
+    left: 17%;
+    bottom: 30px;
+    width: 16.5%;
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    line-height: 28px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.box2{
+    position: absolute;
+    left: 33.5%;
+    bottom: 30px;
+    width: 16.5%;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    line-height: 28px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.box3{
+    position: absolute;
+    left: 50%;
+    width: 16.5%;
+    bottom: 30px;
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    line-height: 28px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.box4{
+    position: absolute;
+    left: 66.5%;
+    bottom: 30px;
+    width: 16.5%;
+    border-right: 1px solid red;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    line-height: 28px;
+    font-size: 20px;
+    text-decoration: none;   
+}
+.seventh{
+    height: 230px;
+    background-color: #F4F1EA;
+    width: 100%;
+    margin-top: 10px;
+    position: relative;
+}
+#content9{
+    text-align: center;
+    position: absolute;
+    color: brown;
+    left: 42%;
+    font-size: 40px;
+    letter-spacing: 3px;
+    padding-top: 20px;
+}
+#content10{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 17%;
+    height: 15%;
+    width: 32%;
+    padding-top: 6px; 
+    color: #3FB0EB;
+    font-size: 25px;
+    color: #3FB0EB;
+}
+#content11{
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    left: 17%;
+    height: 15%;
+    width: 32%;
+    padding-top: 6px; 
+    background-color: #3FB0EB;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 3px;
+}
+#content12{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 51%;
+    height: 15%;
+    width: 32%;
+    padding-top: 6px; 
+    color: #f28005;
+    font-size: 25px;
+}
+#content13{
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    left: 51%;
+    height: 15%;
+    width: 32%;
+    padding-top: 6px; 
+    background-color: #f28005;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 3px;   
+}
+.eighth{
+    height: 150px;
+    width: 100%;
+    position: relative;
+    margin-top: 100px;
+}
+.contact1{
+    background-color: #edece8;
+    position: absolute;
+    width: 16.25%;
+    height: 190px;
+    left: 0px;
+}
+.contact2{
+    background-color: #edece8;
+    position: absolute;
+    width: 16.25%;
+    left: 16.75%;
+    height: 190px;   
+}
+.contact3{
+    background-color: #edece8;
+    position: absolute;
+    width: 16.25%;
+    left: 33.5%;
+    height: 190px;
+}
+.contact4{
+    background-color: #edece8;
+    position: absolute;
+    left: 50.25%;
+    width: 16.25%;
+    height: 190px;
+}
+.contact5{
+    background-color: #edece8;
+    position: absolute;
+    width: 16.25%;
+    left: 67%;
+    height: 190px;
+}
+.contact6{
+    background-color: #edece8;
+    position: absolute;
+    left: 83.75%;
+    width: 16.25%;
+    height: 190px;
+}
+.linked:hover{
+    color: orange;
+}
+#content14{
+    padding-top: 15px;
+}
+#content15{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content16{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content17{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content18{
+    padding-top: 15px;
+    text-align: left;
+    padding-left: 15px;
+}
+#content19{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content20{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content21{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content22{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content23{
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 15px;
+}
+#content24{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content25{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#content26{
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 15px;
+}
+#content27{
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.ninth{
+    position: relative;
+    padding-top: 50px;
+    width: 100%;
+}
+footer{
+    position: absolute;
+    left: 17%;
+    padding-bottom: 100px;
+}
+p a:hover{
+    color: orange;
+}
+

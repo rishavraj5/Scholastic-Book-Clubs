@@ -37,7 +37,7 @@
     position: relative;
 }
 .index1{
-    position: absolute;
+    position: relative;
     left: 17%;
     top: 2px;
     width: 200px;
@@ -47,7 +47,7 @@
     font-family: helvetica;
 }
 .index2{
-    position: absolute;
+    position: relative;
     left: 17%;
     top: 25px;
     width: 200px;
@@ -59,9 +59,9 @@
 .index3{
     width: 320px;
     height: 250px;
-    top: 65px;
-    left: 17%;
-    position: absolute;
+    top: 40px;
+    left: 16.75%;
+    position: relative;
     background-color: #930216;
 }
 form li{
@@ -123,9 +123,9 @@ form p{
 .index4{
     width: 655px;
     height: 50px;
-    top: 80px;
-    left: 40%;
-    position: absolute;
+    top: -190px;
+    left: 600px;
+    position: relative;
     color: white;
     text-align: center;
     font-size: 40px;
@@ -134,17 +134,17 @@ form p{
 .index5{
     width: 320px;
     height: 160px;
-    bottom: 17px;
-    left: 40%;
-    position: absolute;
+    bottom: 170px;
+    left: 600px;
+    position: relative;
     background-color: #930216;
 }
 .index6{
     width: 320px;
     height: 160px;
-    bottom: 17px;
-    left: 62%;
-    position: absolute;
+    bottom: 331px;
+    left: 940px;
+    position: relative;
     background-color: #930216;
 }
 #teacher p{
